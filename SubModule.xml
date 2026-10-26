@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="Make Camels Jump"/>
+	<Id value="MakeCamelsJump"/>
+	<Version value="v1.0.0"/>
+	<DefaultModule value="false"/>
+	<ModuleCategory value="Singleplayer"/>
+	<ModuleType value="Community"/>
+	<Official value="false"/>
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="v1.4.8"/>
+	</DependedModules>
+	<DependedModuleMetadatas>
+		<DependedModuleMetadata id="Native" order="LoadBeforeThis" version="v1.4.8"/>
+	</DependedModuleMetadatas>
+	<SubModules/>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="Monsters" path="monsters"/>
+		</XmlNode>
+	</Xmls>
+</Module>

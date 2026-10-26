@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Match horse jump_speed_limit (vanilla camel uses 100.0). -->
+<Monsters>
+	<Monster
+		id="camel"
+		jump_speed_limit="3.5" />
+</Monsters>
