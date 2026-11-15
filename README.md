@@ -6,7 +6,7 @@ Vanilla camels ignore the space bar. Horses do not. This fixes that.
 
 Jump uses leftover vanilla camel clips, so it will never look as clean as a horse jump. That is a TaleWorlds leftover, not a bug in this mod.
 
-**Download:** [Make Camels Jump on Nexus Mods][nexus] (link after upload)
+**Download:** Nexus page pending; GitHub: [MakeCamelsJump][repo]
 
 ## Compatibility
 

@@ -12,3 +12,5 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+bin/
+*.user.props

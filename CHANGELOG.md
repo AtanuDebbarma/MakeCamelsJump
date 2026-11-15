@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- SubModule dependency updated for Bannerlord **1.5.7**.
+
 ## 1.0.0
 
 First public release for Bannerlord 1.4.8.

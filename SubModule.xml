@@ -2,16 +2,16 @@
 <Module>
 	<Name value="Make Camels Jump"/>
 	<Id value="MakeCamelsJump"/>
-	<Version value="v1.0.0"/>
+	<Version value="v1.0.1"/>
 	<DefaultModule value="false"/>
 	<ModuleCategory value="Singleplayer"/>
 	<ModuleType value="Community"/>
 	<Official value="false"/>
 	<DependedModules>
-		<DependedModule Id="Native" DependentVersion="v1.4.8"/>
+		<DependedModule Id="Native" DependentVersion="v1.5.7"/>
 	</DependedModules>
 	<DependedModuleMetadatas>
-		<DependedModuleMetadata id="Native" order="LoadBeforeThis" version="v1.4.8"/>
+		<DependedModuleMetadata id="Native" order="LoadBeforeThis" version="v1.5.7"/>
 	</DependedModuleMetadatas>
 	<SubModules/>
 	<Xmls>
